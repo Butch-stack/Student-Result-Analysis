@@ -1,0 +1,16 @@
+student_id,student_name,class,subject,marks_obtained,total_marks,percentage,grade,result_status
+101,Aarav,10,Maths,88,100,88,A,Pass
+101,Aarav,10,Science,92,100,92,A+,Pass
+101,Aarav,10,English,81,100,81,B,Pass
+102,Diya,10,Maths,76,100,76,B,Pass
+102,Diya,10,Science,69,100,69,C,Pass
+102,Diya,10,English,72,100,72,B,Pass
+103,Rohan,10,Maths,45,100,45,D,Fail
+103,Rohan,10,Science,51,100,51,C,Pass
+103,Rohan,10,English,48,100,48,D,Fail
+104,Ananya,10,Maths,95,100,95,A+,Pass
+104,Ananya,10,Science,89,100,89,A,Pass
+104,Ananya,10,English,91,100,91,A+,Pass
+105,Kabir,10,Maths,62,100,62,C,Pass
+105,Kabir,10,Science,58,100,58,C,Pass
+105,Kabir,10,English,60,100,60,C,Pass
